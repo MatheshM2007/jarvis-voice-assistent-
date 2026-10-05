@@ -1,0 +1,31 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the SignApk tool
+*.samps
+
+# Generated files
+gen/
+/build/
+/app/build/
+
+# Local configuration file (sdk.path, etc.)
+local.properties
+
+# IDE files
+.gradle/
+.idea/
+*.iml
+.DS_Store
+.built
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Environment and secrets
+.env
+.env.local
+*.jks
+*.keystore
